@@ -94,6 +94,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
   
 ## Writing
 
+- [MindJourn - Your AI-Powered Journaling Companion]([https://www.aijokegenerator.org](https://mindjourn.com/))
+  - **Tags**: `Free` `AI` `Journaling` `Notes` `Writing`
+  - **Pricing**: Freemium
+  - **Contact**: https://mindjourn.com/
+
 - [AI Joke Generator](https://www.aijokegenerator.org) - An AI-powered joke generator.
   - **Tags**: `Free` `AI` `Joke` `Humor` `Writing`
   - **Pricing**: Free
